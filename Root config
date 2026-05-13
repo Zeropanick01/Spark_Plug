@@ -1,0 +1,8 @@
+package.json              - deps, scripts
+tsconfig.json             - TS config
+next.config.js            - Next config
+tailwind.config.ts        - Tailwind config
+postcss.config.js         - PostCSS config
+middleware.ts             - Auth route protection
+.env.example              - env template
+README.md                 - setup instructions
