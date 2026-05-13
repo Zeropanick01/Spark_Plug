@@ -1,0 +1,3 @@
+app/api/uploadthing/core.ts     - UploadThing router
+app/api/uploadthing/route.ts    - UploadThing API handler
+app/api/uploadthing/webhook/route.ts - UploadThing webhook handler
