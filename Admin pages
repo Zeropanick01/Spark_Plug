@@ -1,0 +1,14 @@
+app/admin/page.tsx              - Dashboard stats
+app/admin/listings/page.tsx     - Manage listings
+app/admin/orders/page.tsx       - Manage orders, deliver accounts
+app/admin/transactions/page.tsx - Approve/reject deposits
+app/admin/referrals/page.tsx    - View referrals
+app/admin/payouts/page.tsx      - Approve/reject payouts
+
+app/api/admin/listings/route.ts
+app/api/admin/orders/route.ts
+app/api/admin/orders/[id]/route.ts
+app/api/admin/transactions/route.ts
+app/api/admin/referrals/route.ts
+app/api/admin/payouts/route.ts
+app/api/admin/stats/route.ts
