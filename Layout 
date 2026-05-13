@@ -1,0 +1,2 @@
+app/layout.tsx            - Root layout, providers
+app/page.tsx              - Landing/home page
