@@ -1,0 +1,11 @@
+app/dashboard/page.tsx    - Wallet, balance, payout form, history
+app/market/page.tsx       - Browse listings
+app/order/[id]/page.tsx   - Order details, chat, payment proof upload
+app/api/market/route.ts   - GET listings
+app/api/orders/route.ts   - POST create order
+app/api/orders/[id]/route.ts       - GET order details
+app/api/orders/[id]/chat/route.ts  - POST chat message
+app/api/orders/[id]/proof/route.ts - POST upload payment proof URL
+app/api/orders/[id]/complete/route.ts - POST confirm receipt
+app/api/wallet/route.ts   - GET wallet, transactions, payouts, referrals
+app/api/payout/route.ts   - POST request payout
