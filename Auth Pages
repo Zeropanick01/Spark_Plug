@@ -1,0 +1,4 @@
+app/login/page.tsx        - Login form
+app/signup/page.tsx       - Signup form
+app/api/auth/[...nextauth]/route.ts  - NextAuth handler
+app/api/signup/route.ts   - User registration
